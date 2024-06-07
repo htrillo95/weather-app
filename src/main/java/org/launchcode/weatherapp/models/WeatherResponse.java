@@ -1,4 +1,4 @@
-package org.launchcode.weatherapp.service;
+package org.launchcode.weatherapp.models;
 
 public class WeatherResponse {
 
